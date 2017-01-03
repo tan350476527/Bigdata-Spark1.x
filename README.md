@@ -12,6 +12,7 @@
 10.  Spark 实现WordCount功能讲解
 11. Spark如何提交应用程序及各个组件名词解释
 12. 本章小结：Hadoop_ck_企业大数据平台与应用_内存计算框架Spark_Spark初识入门
+
 ##第二部分、深入Spark（RDD）
 1. Spark RDD五大特性讲解（以WordCount案例和比较MapReduce）
 2. RDD创建的两种方式讲解
@@ -25,6 +26,7 @@
 10. Spark Core应用案例讲解三(1)
 11. Spark Core应用案例讲解三(2)
 12. 本章小结：Hadoop_ck_企业大数据平台与应用_内存计算框架Spark_Spark核心RDD
+
 ##第三部分、高级Spark
 1. 如何使用IDEA开发Spark Application及Local与打包测试讲解
 2. Spark Application监控（HistoryServer历史服务器配置使用）
